@@ -1,4 +1,4 @@
-# Connect to SQL-Server on Ubuntu by FreeTSD
+# Connect to SQL-Server on Ubuntu by FreeTDS
 How to connect to sql server on Ubuntu by FreeTDS
 
 ## install FreeTDS
