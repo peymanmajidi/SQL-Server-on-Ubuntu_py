@@ -42,5 +42,5 @@ Follow instraction below - you know? it took one day of me, I share All steps fo
 	cursor = cnxn.cursor()
 	cursor.execute('SELECT * FROM [UsersTBL]')
 	for row in cursor:
-		print('row = %r' % (row,))
-		print(f
+	    print('row = %r' % (row,))
+	    print(f'Username: {row.username}')
