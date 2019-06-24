@@ -1,7 +1,6 @@
 # Connect to Microsoft SQL Server on Ubuntu | FreeTDS
 How to connect to sql server on Ubuntu by FreeTDS
-Follow instraction below
-you know? it took one day of me, I share All steps for you, easily follow the instructions
+Follow instraction below - you know? it took one day of me, I share All steps for you, easily follow the instructions
 
 ## install FreeTDS
 
